@@ -1,3 +1,5 @@
 # Fatal-Fates
-The link to my game, put 'Assets' file into a new unity project file
-https://drive.google.com/open?id=0B7YOIsgwKM8rbmJlRmxud2lCc1U
+The shared link to my game, this file contains:
+    1. The app/game itself, download it to play it
+    2. The entire UNITY Project file containing the assests, screnes, game/app file, etc....
+https://drive.google.com/open?id=0B7YOIsgwKM8reFVFbTlfdllTTFk
